@@ -1,0 +1,20 @@
+url: https://WiliMayo.github.io
+baseurl: /airos-web
+
+# Site settings
+title: AIROS
+email: airos@espol.edu.ec
+description: "Club de Robótica e Inteligencia Artificial."
+
+# Social networks usernames
+social:
+  - title: instagram
+    url: https://instagram.com/airosespol
+  - title: github
+    url: https://github.com/AIROS-ESPOL
+  - title: linkedin
+    url: https://www.linkedin.com/company/airosespol
+
+# Build settings
+markdown: kramdown
+permalink: pretty

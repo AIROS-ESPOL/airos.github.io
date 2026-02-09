@@ -1,0 +1,55 @@
+---
+title: F1TENTH RoboRacer
+subtitle: 1st and 2nd Place - Autonomous Navigation
+layout: default
+modal-id: 001
+date: 2025-10-17
+img: roboracer.jpg
+thumbnail: roboracer-thumb.jpg
+alt: F1TENTH AIROS winning teams
+project-date: October 17
+client: RoboRacer Ecuador Competition
+category: Project
+repo: "https://github.com/widegonz/PoliRacers"
+description: >
+  <p>Our <strong>AIROS (Artificial Intelligence and Robotics Society - ESPOL)</strong> teams achieved a historic victory, securing both <strong>1st and 2nd PLACE</strong> at the competitive RoboRacer Ecuador. 🥇🥈</p>
+
+  <p>This challenge is based on the international <strong>F1TENTH</strong> platform: 1:10 scale autonomous vehicles designed and programmed to race on a track at top speed without human intervention.</p>
+
+  <h3>Tech Stack and Implementation</h3>
+  <p>This double podium is the result of the deep application of autonomous navigation algorithms in ROS/ROS2:</p>
+  <ul style='text-align: left;'>
+      <li><strong>Perception and Mapping:</strong> Use of SLAM algorithms to build precise track maps using LiDAR.</li>
+      <li><strong>Localization:</strong> Implementation of Particle Filters to estimate the exact position on the track in real-time.</li>
+      <li><strong>Path Planning:</strong> Optimization of Racelines to minimize lap times.</li>
+      <li><strong>Control:</strong> Design of high-precision controllers, such as the <strong>Pure Pursuit (RPP)</strong> algorithm, for high-speed path tracking.</li>
+  </ul>
+
+  <h3>The Winning Teams</h3>
+  <div class='row'>
+      <div class='col-md-6'>
+          <strong>🥇 1st Place:</strong><br>
+          <ul class='list-unstyled'>
+              <li>David Torres</li>
+              <li>Carlos Eduardo Crespo Constante</li>
+              <li>Juan Pablo Zamora Guamán</li>
+              <li>Ricardo Vanegas Cadena</li>
+              <li>José Miguel Santos</li>
+              <li>Carolina Sánchez</li>
+          </ul>
+      </div>
+      <div class='col-md-6'>
+          <strong>🥈 2nd Place:</strong><br>
+          <ul class='list-unstyled'>
+              <li>Winter Israel Delgado González</li>
+              <li>José Reyes</li>
+              <li>Maykoll Steven Vanegas Silva</li>
+              <li>William Ismael Mayorga Mejia</li>
+              <li>Héctor La Mota</li>
+          </ul>
+      </div>
+  </div>
+
+  <p>We extend special thanks to our advisor, <strong>Ph.D. Nabih Pico</strong>, for his vision in driving this competition in the country, and to the Catholic University of Santiago de Guayaquil for organizing the event.</p>
+
+---

@@ -1,0 +1,336 @@
+# ==============================
+# PART 1: EXECUTIVE BOARD (Directiva)
+# ==============================
+board:
+  - name: "Juan Sánchez"
+    role: "President"
+    img: "Juan-Sanchez.jpg"
+    github: "https://github.com/juanfranciscosm"
+    linkedin: "https://www.linkedin.com/in/juanfranciscosm/"
+    #portfolio: "https://tuweb.com"
+
+  - name: "Héctor La Mota"
+    role: "Vice President"
+    img: "Hector-La-Mota.jpg"
+    github: "https://github.com/hector-la"
+    linkedin: "www.linkedin.com/in/héctor-la-mota-"
+
+  - name: "Juan Duran"
+    role: "Treasurer / Hybrid Energy Director"
+    img: "Juan-Duran.jpg"
+    #github: "#"
+    linkedin: "https://www.linkedin.com/in/juan-camilo-duran-lobo-6297a0217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    
+  - name: "Micaela Anamise"
+    role: "Secretary"
+    img: "Micaela-Anamise.jpg"
+    github: "https://github.com/carolinanamise13-hub"
+    linkedin: "https://www.linkedin.com/in/micaela-anamise-llumiquinga-924b503a4/"
+
+# ==============================
+# PART 2: DEPARTMENT LEADS (Directores)
+# ==============================
+leads:
+  - name: "Daniel Chávez"
+    role: "Humanoids Director"
+    img: "Daniel-Chavez.jpg"
+    github: "https://github.com/EDCHC1234"
+    linkedin: "https://ec.linkedin.com/in/daniel-chavez-32a55a33b"
+
+  - name: "Carolina Sánchez"
+    role: "Autonomous Navigation Director"
+    img: "Carolina-Sanchez.jpg"
+    github: "https://github.com/carisanc"
+    #linkedin: "#"
+
+  - name: "León Vargas"
+    role: "Smart Industry Director"
+    img: "Leon-Vargas.jpg"
+    github: "https://github.com/lfvargas20"
+    linkedin: "https://www.linkedin.com/in/leon-felipe-vargas-aguilar-0441ab224?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+
+  - name: "Carlos Crespo"
+    role: "Smart Sensors Director"
+    img: "Carlos-Crespo.jpg"
+    github: "#"
+    linkedin: "#"
+
+  - name: "William Mayorga"
+    role: "Web Development Director"
+    img: "William-Mayorga.jpg"
+    github: "https://github.com/WiliMayo"
+    linkedin: "https://www.linkedin.com/in/william-ismael-mayorga-mejia-35b308217/"
+    portfolio: "https://wilimayo.github.io/"
+
+#  - name: "Juan Duran"
+#    role: "Director Energía Hibrida"
+#    img: "Juan-Duran.jpg"
+
+# ==============================
+# PARTE 3: MIEMBROS DEL CLUB
+# ==============================
+members:
+
+#no info no foto
+#  - name: "María López"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # portfolio: "#"
+#no info no foto
+#  - name: "Carlos Ruiz"
+ #   img: "miembro3.jpg"
+  #  linkedin: "#"
+
+  - name: "Andrea Castillo"
+    img: "Andrea-Castillo.jpg"
+    github: "https://github.com/AndreaZion"
+    linkedin: "https://www.linkedin.com/in/andrea-valeria-castillo-puebla-587479320/?trk=contact-info"
+    #portfolio: "#"
+
+#no info no foto
+#  - name: "Andree Gabriel Fonseca Medina"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+  - name: "Anthony Jesús Guadalupe Chávez"
+    img: "Anthony-Guadalupe.jpg"
+    github: "https://github.com/Antguada"
+    linkedin: "http://www.linkedin.com/in/anthony-guadalupe-22b76730a"
+    #portfolio: "#"
+
+  - name: "Christian Aguilera"
+    img: "Christian-Aguilera.jpg"
+    github: "https://github.com/ChristiaAguiilera"
+    linkedin: "https://ec.linkedin.com/in/christian-aguilera-373964236"
+    #portfolio: "#"
+
+  - name: "Christian Balcázar Romero"
+    img: "Christian-Balcazar.jpg"
+    github: "https://github.com/balkita"
+    linkedin: "https://www.linkedin.com/in/christian-balc%C3%A1zar-752239277/"
+    #portfolio: "#"
+
+  - name: "Daniel Esteban Elias"
+    img: "Daniel-Elias.jpg"
+    github: "https://github.com/danielelias2985"
+    linkedin: "http://www.linkedin.com/in/daniel-elias-145558297"
+    #portfolio: "#"
+
+  - name: "Estefano Barquet"
+    img: "Estefano-Barquet.jpg"
+    github: "https://github.com/estefanobarquet"
+    linkedin: "https://www.linkedin.com/in/estefano-barquet-vera-365541321/"
+    portfolio: "https://estefanobarquet.github.io/"
+
+#no info no foto
+#  - name: "Gabriela Soledad Donoso Guisamano"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+  - name: "Jeremi Isaac Silva Pesantes"
+    img: "Jeremi-Silva.jpg"
+    github: "http://www.linkedin.com/in/daniel-elias-145558297"
+    linkedin: "https://www.linkedin.com/in/jeremi-silva-pesantes-61a4bb34b"
+    #portfolio: "#"
+
+  - name: "Jhony David Choez Lopez"
+    img: "Jhony-Choez.jpg"
+    github: "https://github.com/Jhodav"
+    linkedin: "http://www.linkedin.com/in/jhony-choez-766a9834b"
+    #portfolio: "#"
+
+  - name: "Juan Diego Santana"
+    img: "Juan-Santana.jpg"
+    github: "https://github.com/jdsantan"
+    linkedin: "http://www.linkedin.com/in/juan-diego-santana-zavala-956357297"
+    #portfolio: "#"
+
+#no info no foto
+#  - name: "Juan Matias Gordon Reyes"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+#no info no foto
+#  - name: "Juan Pablo Zamora Guaman"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+#no info no data
+#  - name: "Kevin Alexander Cedeño Duma"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+  - name: "Marcos Emmanuel Balón García"
+    img: "Marcos-Emmanuel-Balon-Garcia.jpg"
+    github: "https://github.com/Marcos-6783"
+    linkedin: "https://www.linkedin.com/in/marcos-emmanuel-bal%C3%B3n-garcia-94271239a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    #portfolio: "#"
+
+#no info no foto
+#  - name: "Matías Adrián Nuñez Gambarrott"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+  - name: "Melissa Nicole Cobos Condo"
+    img: "Melissa-Cobos.jpg"
+    #github: "#"
+    linkedin: "https://www.linkedin.com/in/melissa-cobos-094627269/"
+    #portfolio: "#"
+
+#no info no foto
+#  - name: "Nahin Alexis Martinez Salazar"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+#no info no foto
+#  - name: "Octavio Sebastián Alvarez Baños"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+  - name: "Raúl Ángel Villavicencio Espinoza"
+    img: "Raul-Villavicencio.jpg"
+    github: "https://github.com/Raulvillaes"
+    linkedin: "https://www.linkedin.com/in/raulvillaes/"
+    #portfolio: "#"
+
+#no info no foto
+#  - name: "Reinier Steven Morales Amaya"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+#no info no foto
+#  - name: "Ricardo Arturo Vanegas Cadena"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+#no info no foto
+#  - name: "Robert Daniel Drouet Lainez"
+ #   img: "miembro2.jpg"
+  #  github: "#"
+   # linkedin: "#"
+    #portfolio: "#"
+
+  - name: "Rubén Barrera González"
+    img: "Ruben-Barrera-Gonzalez.jpg"
+    github: "https://github.com/RubenBarrera"
+    linkedin: "https://www.linkedin.com/in/rubén-barrera-718043398"
+    #portfolio: "#"
+
+  - name: "Samuel Gabriel Salazar Espinoza"
+    img: "Samuel-Espinoza.jpg"
+    github: "https://github.com/Samuel4142r"
+    linkedin: "http://www.linkedin.com/in/samuel-salazar-espinoza-759598297"
+    #portfolio: "#"
+
+  - name: "Sidney Drouet Maquilon"
+    img: "Sidney-Drouet.jpg"
+    github: "https://github.com/babu-fr1k"
+    linkedin: "https://www.linkedin.com/in/sidney-drouet-198695230/"
+    #portfolio: "#"
+
+  - name: "Widinson Gadvay"
+    img: "Widinson-Gadvay.jpg"
+    github: "https://github.com/WidinsonGadvay"
+    #linkedin: "#"
+    #portfolio: "#"
+
+
+# ==============================
+# PARTE 4: ALUMNI (Ex-alumnos)
+# ==============================
+alumni:
+  - name: "Ing. María Pérez"
+    position: "Data Scientist at Bank of America"
+    img: "maria-perez.jpg"
+    linkedin: "https://linkedin.com/in/maria"
+
+  - name: "Ph.D. Juan López"
+    position: "Professor at ESPOL"
+    img: "juan-lopez.jpg"
+    linkedin: "#"
+    
+  - name: "Msc. Carlos Ruiz"
+    position: "Robotics Engineer at Tesla"
+    img: "carlos-ruiz.jpg"
+    github: "#"
+
+  - name: "Msc. Carlos Rivera"
+    position: "Robotics Engineer at Tesla"
+    img: "carlos-rivera.jpg"
+    github: "#"
+    
+  - name: "Ing. Ana Paula Morales Apolo"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Angel Josue Espín Lumbano"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Angello Bernie Andrade Velasco"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Anthony Javier Carrillo Vega"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Carlos Enrique Jara Blacio"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Dana Paola Soriano Santana"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Daniel Alberto Moran García"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. David Alejandro Torres Torres"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Giovanny William Mite Rodríguez"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. José Luis Reyes Ramos"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. José Miguel Santos Terán"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Maykoll Steven Vanegas Silva"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Walter Francisco Tamayo Benites"
+    img: "miembro2.jpg"
+    linkedin: "#"
+
+  - name: "Ing. Winter Israel Delgado González"
+    img: "miembro2.jpg"
+    linkedin: "#"

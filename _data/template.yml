@@ -1,0 +1,14 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2a5c97
+  secondary: 53c5e9
+  secondary-dark: 333
+  muted: 777
+
+# Font Families
+font:
+  # Primary: Se usará para Títulos (H1, H2...), Botones y Menú
+  primary: '"Bebas Neue", cursive'
+
+  # Secondary: Se usará para los Subtítulos (esos textos debajo de los títulos grandes)
+  secondary: '"Rajdhani", sans-serif'
