@@ -4,7 +4,7 @@ This repository contains the source code of the official website of **AIROS (Art
 
 The site works as a living portfolio to showcase our robotics projects, scientific publications (papers), events, and to introduce our board members and general members.
 
-🔗 **Website URL:** https://wilimayo.github.io/airos-web/
+🔗 **Website URL:** https://airos-espol.github.io/airos-web/
 
 ---
 
